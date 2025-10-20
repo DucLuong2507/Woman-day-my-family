@@ -1,8 +1,9 @@
 window.addEventListener('load', () => {
     const messages = [
         
+        "Happy Vietnamese Women'Day!",
+        " Nhân ngày Phụ nữ Việt Nam 20/10, con kính chúc bà luôn mạnh khỏe, sống vui, sống lâu bên con cháu. Bà mãi là ngọn lửa ấm áp, là điểm tựa yêu thương của cả gia đình. Con yêu bà thật nhiều! ❤️",
         "Nhân ngày 20/10, chúc các bác Én và bác Dinh luôn vui vẻ, hạnh phúc và trẻ trung. Chúc bác có thật nhiều sức khỏe để mãi là người phụ nữ đảm đang, dịu dàng và là tấm gương cho con cháu noi theo. 🌼",
-        " Nhân ngày Phụ nữ Việt Nam 20/10, con kính chúc bà luôn mạnh khỏe, sống vui, sống lâu bên con cháu. Bà mãi là ngọn lửa ấm áp, là điểm tựa yêu thương của cả gia đình. Con yêu bà thật nhiều! ❤️", 
         "Ngày 20/10, chúc cô Hoa và cô Quỳnh luôn xinh đẹp, vui tươi và gặp nhiều may mắn trong cuộc sống. Cảm ơn cô vì luôn quan tâm, yêu thương và là người truyền cảm hứng cho con cháu. 💖" ,
         "Nhân ngày Phụ nữ Việt Nam, con gửi đến mẹ ngàn lời yêu thương nhất. Chúc mẹ luôn mạnh khỏe, hạnh phúc và mãi nở nụ cười thật tươi. Cảm ơn mẹ đã hy sinh và yêu thương con vô điều kiện.💕",
         "🌷 Chúc chị Chi và chị My 20/10 thật vui vẻ, xinh đẹp, luôn hạnh phúc và thành công trong cuộc sống, bình an và được yêu thương mỗi ngày!",
